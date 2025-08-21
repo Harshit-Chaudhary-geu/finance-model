@@ -30,4 +30,3 @@ git push origin branch-name  # push branch to GitHub
 2. Do your changes
 3. Push branch: `git push origin feature-name`
 4. Open a Pull Request (PR) on GitHub
-5. 
